@@ -1,5 +1,5 @@
 # myhome
-#### 스프링부트 JPA 회원 로그인 게시판 구현
+#### SpringBoot JPA 회원 로그인 게시판 구현
 #### 사용기술
 + Java 11
 + SpringBoot
